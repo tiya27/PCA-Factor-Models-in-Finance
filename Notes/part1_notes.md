@@ -1,11 +1,14 @@
 We are simulating:
 - 10 synthetic stocks
 - 500 trading days
+
 where all stocks are influenced by:
 - one common market factor
 - plus individual noise
+  
 This creates:
 - correlated stocks
+  
 which is EXACTLY why PCA works later.
 
 # The Model
