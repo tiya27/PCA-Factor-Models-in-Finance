@@ -1,0 +1,5 @@
+Aspect,Loadings,Scores
+Meaning,Weights of stocks in PCs,Projection values
+Represents,Variables/features,Observations/days
+Shape,"(10, 10)","(499, 10)"
+Interpretation,Contribution of each stock,Strength of PC on each day
