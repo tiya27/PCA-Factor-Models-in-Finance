@@ -45,7 +45,7 @@ Using PCA, we analyze the hidden factor structure governing asset returns.
 ```text
 .
 ├── notebook/
-│   └── PS1.ipynb
+│   └── Team_2.ipynb
 │
 ├── src/
 │   ├── generate_data.py
