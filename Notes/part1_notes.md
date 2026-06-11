@@ -45,6 +45,7 @@ NumPy - for arrays, random number generation and matrix operations.
 Pandas - for stock price tables - return calculations
 Matplotlib - plots graphs
 Seaborn - makes financial heatmaps(data visualization technique that uses spectrum of colors to represent density of data) looks cleaner.
+- heatmaps make hidden relationship structure visually obvious
 
 # Market_factor
 represents the overall market movement.
