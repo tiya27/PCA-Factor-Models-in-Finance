@@ -50,3 +50,22 @@ Seaborn - makes financial heatmaps(data visualization technique that uses spectr
 represents the overall market movement.
 because all stocks use this inside price eqn, when market rises, mny stocks rise together, when market crashes, many stocks fall together, creates covariance stucture.
 PCA later tries to dicover this hidden common factor from returns.
+
+# Why log returns
+log - additive over time, closer to normal distribution, commonly used in stochastic modelling.
+Here it gives 499 X 10 matrix which later becomes the PCA input
+
+# correlation matrix 
+- measures relationship strength
+if value - +1 -> perfectly positively related
+if -1 -> negatively related
+- gives normalized relation
+- diverging map
+
+# Covariance matrix
+measured joint variability
+larger covariance - stronger co-movement
+gives actual variance structure.
+PCA internally uses covariance structure.
+- magnitude map
+
